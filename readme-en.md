@@ -1,6 +1,4 @@
-这是为你翻译好的英文版 Markdown 文档。我已经把底部的文字列表重新整理成了标准的 Markdown 表格格式，你可以直接复制使用。
 
-````markdown
 # macOS - EN
 
 ### 📖 Introduction
