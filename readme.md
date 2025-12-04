@@ -61,8 +61,8 @@ sudo codesign --force --deep --sign - /Applications/你的应用名称.app
 
 | **应用名称**        | **版本**     | **简介**                                                     | **下载链接**                                                 |
 | ------------------- | ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| **typora**          | v1.12.4      | 极简主义 Markdown 编辑器，提供无缝的“所见即所得”写作体验。   | [下载](https://github.com/YorkRaleign6/macos/blob/main/typora/1.12.4/Typora_1.12.4.dmg) |
-| **iShot_Pro**       | v2.6.5       | Mac 上优秀的截图、录屏、OCR 文字识别及标注工具。             | [下载](https://github.com/YorkRaleign6/macos/blob/main/iShot_Pro/2.6.5/iShot%20Pro_2.6.5.dmg) |
-| **Xmind**           | v26.01.07145 | 全功能的思维导图和头脑风暴软件，激发灵感与创意。             | [下载](https://github.com/YorkRaleign6/macos/blob/main/Xmind/26.01/Xmind_26.01.07145.dmg) |
-| **ScreenFlow**      | v10.5.1      | 专业级的屏幕录制与视频编辑软件，轻松制作高质量演示视频。     | [下载](https://github.com/YorkRaleign6/macos/blob/main/ScreenFlow/10.5.1/ScreenFlow_10.5.1.dmg) |
-| **Navicat_Premium** | v17.3.5      | 强大的多连接数据库开发工具，支持 MySQL, Redis, PostgreSQL 等多种数据库管理。 | [下载](https://github.com/YorkRaleign6/macos/blob/main/Navicat_Premium/17.3.5/Navicat_Premium_17.3.5.dmg) |
+| **typora**          | v1.12.4      | 极简主义 Markdown 编辑器，提供无缝的“所见即所得”写作体验。   | [下载](https://github.com/YorkRaleign6/macos/releases/download/typora_v1.12.4/Typora_1.12.4.dmg) |
+| **iShot_Pro**       | v2.6.5       | Mac 上优秀的截图、录屏、OCR 文字识别及标注工具。             | [下载](https://github.com/YorkRaleign6/macos/releases/download/iShot_Pro_v2.6.5/iShot.Pro_2.6.5.dmg) |
+| **Xmind**           | v26.01.07145 | 全功能的思维导图和头脑风暴软件，激发灵感与创意。             | [下载](https://github.com/YorkRaleign6/macos/releases/download/Xmind_v26.01/Xmind_26.01.07145.dmg) |
+| **ScreenFlow**      | v10.5.1      | 专业级的屏幕录制与视频编辑软件，轻松制作高质量演示视频。     | [下载](https://github.com/YorkRaleign6/macos/releases/download/ScreenFlow_v10.5.1/ScreenFlow_10.5.1.dmg) |
+| **Navicat_Premium** | v17.3.5      | 强大的多连接数据库开发工具，支持 MySQL, Redis, PostgreSQL 等多种数据库管理。 | [下载](https://github.com/YorkRaleign6/macos/releases/download/Navicat_Premium_v17.3.5/Navicat_Premium_17.3.5.dmg) |
