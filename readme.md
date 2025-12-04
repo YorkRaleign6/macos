@@ -9,6 +9,11 @@
 
 ### 📖 简介
 
+加入我们
+telegram link   https://t.me/+1q4fhbPDG2lkMzg1
+
+
+
 欢迎来到我的 macOS 应用仓库。本仓库主要作为我个人搜集的各类 macOS 应用的索引分享。
 
 > ⚠️ 免责声明：
