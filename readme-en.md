@@ -52,11 +52,11 @@ sudo codesign --force --deep --sign - /Applications/YourAppName.app
 
 | Application Name | Version | Description | Download Link |
 | :--- | :--- | :--- | :--- |
-| **Typora** | v1.12.4 | A minimalist Markdown editor providing a seamless "What You See Is What You Get" writing experience. | [down](https://github.com/YorkRaleign6/macos/blob/main/typora/1.12.4/Typora_1.12.4.dmg) |
-| **iShot\_Pro** | v2.6.5 | Excellent screen capture, recording, OCR text recognition, and annotation tool for Mac. | [down](https://github.com/YorkRaleign6/macos/blob/main/iShot_Pro/2.6.5/iShot%20Pro_2.6.5.dmg) |
-| **Xmind** | v26.01.07145 | Full-featured mind mapping and brainstorming software to inspire creativity. | [down](https://github.com/YorkRaleign6/macos/blob/main/Xmind/26.01/Xmind_26.01.07145.dmg) |
-| **ScreenFlow** | v10.5.1 | Professional screen recording and video editing software for creating high-quality demo videos. | [down](https://github.com/YorkRaleign6/macos/blob/main/ScreenFlow/10.5.1/ScreenFlow_10.5.1.dmg) |
-| **Navicat\_Premium** | v17.3.5 | Powerful multi-connection database development tool supporting MySQL, Redis, PostgreSQL, and more. | [down](https://github.com/YorkRaleign6/macos/blob/main/Navicat_Premium/17.3.5/Navicat_Premium_17.3.5.dmg) |
+| **Typora** | v1.12.4 | A minimalist Markdown editor providing a seamless "What You See Is What You Get" writing experience. | [down](https://github.com/YorkRaleign6/macos/releases/download/typora_v1.12.4/Typora_1.12.4.dmg) |
+| **iShot\_Pro** | v2.6.5 | Excellent screen capture, recording, OCR text recognition, and annotation tool for Mac. | [down](https://github.com/YorkRaleign6/macos/releases/download/iShot_Pro_v2.6.5/iShot.Pro_2.6.5.dmg)|
+| **Xmind** | v26.01.07145 | Full-featured mind mapping and brainstorming software to inspire creativity. | [down](https://github.com/YorkRaleign6/macos/releases/download/Xmind_v26.01/Xmind_26.01.07145.dmg)  |
+| **ScreenFlow** | v10.5.1 | Professional screen recording and video editing software for creating high-quality demo videos. | [down](https://github.com/YorkRaleign6/macos/releases/download/ScreenFlow_v10.5.1/ScreenFlow_10.5.1.dmg) |
+| **Navicat\_Premium** | v17.3.5 | Powerful multi-connection database development tool supporting MySQL, Redis, PostgreSQL, and more. | [down](https://github.com/YorkRaleign6/macos/releases/download/Navicat_Premium_v17.3.5/Navicat_Premium_17.3.5.dmg) |
 
 ```
 ```
