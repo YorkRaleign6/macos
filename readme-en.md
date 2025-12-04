@@ -1,5 +1,10 @@
 
 # macOS - EN
+---------
+
+[中文文档](https://github.com/YorkRaleign6/macos/blob/main/readme.md) | [English README](https://github.com/YorkRaleign6/macos/blob/main/readme-en.md)
+
+--------
 
 ### 📖 Introduction
 Welcome to my macOS application repository. This repository primarily serves as an index for various macOS applications I have personally collected and shared.
