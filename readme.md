@@ -10,7 +10,7 @@
 ### 📖 简介
 
 加入我们
-telegram link   https://t.me/+1q4fhbPDG2lkMzg1
+telegram   https://t.me/+1q4fhbPDG2lkMzg1
 
 
 
