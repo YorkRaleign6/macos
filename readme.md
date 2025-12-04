@@ -1,4 +1,11 @@
-## macos - CN
+## macos -  CN
+
+---------
+
+[中文文档](https://github.com/YorkRaleign6/macos/blob/main/readme.md) | [English README](https://github.com/YorkRaleign6/macos/blob/main/readme-en.md)
+
+--------
+
 
 ### 📖 简介
 
