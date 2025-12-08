@@ -66,16 +66,16 @@ sudo codesign --force --deep --sign - /Applications/你的应用名称.app
 
 | **应用名称** | **版本** | **下载链接** |
 | ------------ | -------- | ------------ |
-| **2.6 Rotide** | 601 | [下载](https://github.com/YorkRaleign6/macos/releases/download/2.6_rotide_601/106_Editor_2.6_TNT.dmg) |
+| **2.6 Rotide** | 2.6 | [下载](https://github.com/YorkRaleign6/macos/releases/download/2.6_rotide_601/106_Editor_2.6_TNT.dmg) |
 | **2Do** | 2.9.61 | [下载](https://github.com/YorkRaleign6/macos/releases/download/2.9.61_od2/2Do_2.9.61_TNT.dmg) |
 | **4K Tokkit** | 25.4.1 | [下载](https://github.com/YorkRaleign6/macos/releases/download/25.4.1_tikkot_k4/4K_Tokkit_25.4.1_TNT.dmg) |
 | **4K Video Downloader** | 25.4.2 | [下载](https://github.com/YorkRaleign6/macos/releases/download/25.4.2_redaolnwod_oediv_k4/4K_Video_Downloader_25.4.2_TNT.dmg) |
 | **4K Youtube To Mp3** | 25.4.2 | [下载](https://github.com/YorkRaleign6/macos/releases/download/25.4.2_3pm_ot_ebutuoy_k4/4K_YouTube_to_MP3_25.4.2_TNT.dmg) |
-| **A Better Finder Rename** | 12 | [下载](https://github.com/YorkRaleign6/macos/releases/download/12_emaner_rednif_retteb_a/A_Better_Finder_Rename_12_12.21_TNT.dmg) |
-| **Acdsee Photo Studio** | 26 | [下载](https://github.com/YorkRaleign6/macos/releases/download/26_oiduts_otohp_eesdca/ACDSee_Photo_Studio_26_26.0.0_TNT.dmg) |
+| **A Better Finder Rename** | 12.21 | [下载](https://github.com/YorkRaleign6/macos/releases/download/12_emaner_rednif_retteb_a/A_Better_Finder_Rename_12_12.21_TNT.dmg) |
+| **Acdsee Photo Studio** | 26.0.0 | [下载](https://github.com/YorkRaleign6/macos/releases/download/26_oiduts_otohp_eesdca/ACDSee_Photo_Studio_26_26.0.0_TNT.dmg) |
 | **Activedock** | 2.2.850 | [下载](https://github.com/YorkRaleign6/macos/releases/download/1.0.0_058.2.2_kcodevitca/ActiveDock_2.2.850.dmg) |
-| **Adobe Audition** | 2025 | [下载](https://github.com/YorkRaleign6/macos/releases/download/2025_noitidua_eboda/Adobe_Audition_2025_25.6.0_ARM.dmg) |
-| **Adobe Media Encoder** | 2025 | [下载](https://github.com/YorkRaleign6/macos/releases/download/2025_redocne_aidem_eboda/Adobe_Media_Encoder_2025_25.6.0_ARM.dmg) |
+| **Adobe Audition** | 25.6.0 | [下载](https://github.com/YorkRaleign6/macos/releases/download/2025_noitidua_eboda/Adobe_Audition_2025_25.6.0_ARM.dmg) |
+| **Adobe Media Encoder** | 25.6.0 | [下载](https://github.com/YorkRaleign6/macos/releases/download/2025_redocne_aidem_eboda/Adobe_Media_Encoder_2025_25.6.0_ARM.dmg) |
 | **Aiarty Image Enhancer** | 3.5 | [下载](https://github.com/YorkRaleign6/macos/releases/download/3.5_recnahne_egami_ytraia/Aiarty_Image_Enhancer_3.5_TNT.dmg) |
 | **Aiarty Image Matting** | 2.6 | [下载](https://github.com/YorkRaleign6/macos/releases/download/2.6_gnittam_egami_ytraia/Aiarty_Image_Matting_2.6_TNT.dmg) |
 | **Aiarty Video Enhancer** | 3.0 | [下载](https://github.com/YorkRaleign6/macos/releases/download/3.0_recnahne_oediv_ytraia/Aiarty_Video_Enhancer_3.0_TNT.dmg) |
@@ -88,12 +88,12 @@ sudo codesign --force --deep --sign - /Applications/你的应用名称.app
 | **Anytrans** | 8.9.14 | [下载](https://github.com/YorkRaleign6/macos/releases/download/8.9.14_snartyna/AnyTrans_8.9.14_20251127_TNT.dmg) |
 | **Apolloone** | 4.0.6 | [下载](https://github.com/YorkRaleign6/macos/releases/download/1.0.0_6.0.4_enoollopa/ApolloOne_4.0.6.dmg) |
 | **Apu Software Dynamics Optimizer** | 4.6.1 | [下载](https://github.com/YorkRaleign6/macos/releases/download/1.0.0_1.6.4_rezimitpo_scimanyd_erawtfos_upa/APU_Software_Dynamics_Optimizer_4.6.1.dmg) |
-| **Art Text** | 4 | [下载](https://github.com/YorkRaleign6/macos/releases/download/4_txet_tra/Art_Text_4_4.5.6_TNT.dmg) |
+| **Art Text** | 4.5.6 | [下载](https://github.com/YorkRaleign6/macos/releases/download/4_txet_tra/Art_Text_4_4.5.6_TNT.dmg) |
 | **Aspect Ratio** | 2.25 | [下载](https://github.com/YorkRaleign6/macos/releases/download/2.25_oitar_tcepsa/Aspect_Ratio_2.25_MAS_TNT.dmg) |
 | **Audio Hijack** | 4.5.6 | [下载](https://github.com/YorkRaleign6/macos/releases/download/4.5.6_kcajih_oidua/Audio_Hijack_4.5.6_TNT.dmg) |
 | **Audiobook Builder** | 2.2.9 | [下载](https://github.com/YorkRaleign6/macos/releases/download/2.2.9_redliub_kooboidua/Audiobook_Builder_2.2.9_TNT.dmg) |
 | **Bandizip365** | 7.36 | [下载](https://github.com/YorkRaleign6/macos/releases/download/1.0.0_63.7_563pizidnab/Bandizip365_7.36.dmg) |
-| **Bartender** | 6 | [下载](https://github.com/YorkRaleign6/macos/releases/download/6_rednetrab/Bartender_6_6.2.1_TNT.dmg) |
+| **Bartender 6** | 6.2.1 | [下载](https://github.com/YorkRaleign6/macos/releases/download/6_rednetrab/Bartender_6_6.2.1_TNT.dmg) |
 | **Bbe Sound Stomp Board** | 1.7.1 | [下载](https://github.com/YorkRaleign6/macos/releases/download/1.7.1_draob_pmots_dnuos_ebb/BBE_Sound_Stomp_Board_1.7.1_HCiSO.dmg) |
 | **Bear** | 2.6.4 | [下载](https://github.com/YorkRaleign6/macos/releases/download/1.0.0_4.6.2_raeb/Bear_2.6.4.dmg) |
 | **Betterdisplay** | 4.0.4 | [下载](https://github.com/YorkRaleign6/macos/releases/download/4.0.4_yalpsidretteb/BetterDisplay_4.0.4_atb.dmg) |
@@ -104,7 +104,7 @@ sudo codesign --force --deep --sign - /Applications/你的应用名称.app
 | **Bookends** | 15.2.2 | [下载](https://github.com/YorkRaleign6/macos/releases/download/1.0.0_2.2.51_sdnekoob/Bookends_15.2.2.dmg) |
 | **Boxy Svg** | 4.90.0 | [下载](https://github.com/YorkRaleign6/macos/releases/download/4.90.0_gvs_yxob/Boxy_SVG_4.90.0_MAS_TNT.dmg) |
 | **Busycontacts** | 2025.4.1 | [下载](https://github.com/YorkRaleign6/macos/releases/download/1.0.0_1.4.5202_stcatnocysub/BusyContacts_2025.4.1.dmg) |
-| **Cardhop** | 2 | [下载](https://github.com/YorkRaleign6/macos/releases/download/2_pohdrac/Cardhop_2_4_3_TNT.iso) |
+| **Cardhop 2** | 2 | [下载](https://github.com/YorkRaleign6/macos/releases/download/2_pohdrac/Cardhop_2_4_3_TNT.iso) |
 | **Cleanclip** | 2.4.5 | [下载](https://github.com/YorkRaleign6/macos/releases/download/1.0.0_5.4.2_pilcnaelc/CleanClip_2.4.5.dmg) |
 | **Cleanshot X** | 4.8.5 | [下载](https://github.com/YorkRaleign6/macos/releases/download/1.0.0_5.8.4_x_tohsnaelc/CleanShot_X_4.8.5.dmg) |
 | **Cloudmounter** | 4.16 | [下载](https://github.com/YorkRaleign6/macos/releases/download/4.16_retnuomduolc/CloudMounter_4.16_TNT.dmg) |
@@ -123,8 +123,8 @@ sudo codesign --force --deep --sign - /Applications/你的应用名称.app
 | **Dockview** | 1.7.3 | [下载](https://github.com/YorkRaleign6/macos/releases/download/1.0.0_3.7.1_weivkcod/DockView_1.7.3.dmg) |
 | **Downie** | 4.11.6 | [下载](https://github.com/YorkRaleign6/macos/releases/download/4.11.6_einwod/Downie_4.11.6_5078.dmg) |
 | **Dropdmg** | 3.7.1 | [下载](https://github.com/YorkRaleign6/macos/releases/download/3.7.1_gmdpord/DropDMG_3.7.1_EDiSO.dmg) |
-| **Dropshare** | 6 | [下载](https://github.com/YorkRaleign6/macos/releases/download/6_erahspord/Dropshare_6_6.8.0_TNT.dmg) |
-| **Dropzone** | 4 | [下载](https://github.com/YorkRaleign6/macos/releases/download/4_enozpord/Dropzone_4_4.80.74_TNT.dmg) |
+| **Dropshare 6** | 6.8.0 | [下载](https://github.com/YorkRaleign6/macos/releases/download/6_erahspord/Dropshare_6_6.8.0_TNT.dmg) |
+| **Dropzone 4** | 4.80.74 | [下载](https://github.com/YorkRaleign6/macos/releases/download/4_enozpord/Dropzone_4_4.80.74_TNT.dmg) |
 | **Dynamic Wallpaper** | 24.1 | [下载](https://github.com/YorkRaleign6/macos/releases/download/24.1_repapllaw_cimanyd/Dynamic_Wallpaper_24.1_MAS_TNT.dmg) |
 | **Dynamiclakepro** | 1.7.1.1 | [下载](https://github.com/YorkRaleign6/macos/releases/download/1.0.0_1.1.7.1_orpekalcimanyd/DynamicLakePro_1.7.1.1.dmg) |
 | **Eazydraw** | 12.2.4 | [下载](https://github.com/YorkRaleign6/macos/releases/download/12.2.4_wardyzae/EazyDraw_12.2.4_MAS_TNT.dmg) |
@@ -142,7 +142,7 @@ sudo codesign --force --deep --sign - /Applications/你的应用名称.app
 | **Forklift** | 4.4.4 | [下载](https://github.com/YorkRaleign6/macos/releases/download/4.4.4_tfilkrof/ForkLift_4.4.4_TNT.dmg) |
 | **Ghost Buster Pro** | 4.0.4 | [下载](https://github.com/YorkRaleign6/macos/releases/download/4.0.4_orp_retsub_tsohg/Ghost_Buster_Pro_4.0.4_MAS_TNT.dmg) |
 | **Gluemotion** | 2.3.0 | [下载](https://github.com/YorkRaleign6/macos/releases/download/2.3.0_noitomeulg/GlueMotion_2.3.0_TNT.dmg) |
-| **Glyphs** | 3 | [下载](https://github.com/YorkRaleign6/macos/releases/download/3_shpylg/Glyphs_3_3.5.dmg) |
+| **Glyphs 3** | 3.5 | [下载](https://github.com/YorkRaleign6/macos/releases/download/3_shpylg/Glyphs_3_3.5.dmg) |
 | **Hazel** | 6.1 | [下载](https://github.com/YorkRaleign6/macos/releases/download/1.0.0_1.6_lezah/Hazel_6.1.dmg) |
 | **Ibarcoder** | 3.17.2 | [下载](https://github.com/YorkRaleign6/macos/releases/download/3.17.2_redocrabi/iBarcoder_3.17.2_TNT.dmg) |
 | **Iclip** | 5.5.9 | [下载](https://github.com/YorkRaleign6/macos/releases/download/5.5.9_pilci/iClip_5.5.9_TNT.dmg) |
@@ -166,13 +166,13 @@ sudo codesign --force --deep --sign - /Applications/你的应用名称.app
 | **Magic Battery** | 9.2.2 | [下载](https://github.com/YorkRaleign6/macos/releases/download/9.2.2_yrettab_cigam/Magic_Battery_9.2.2_MAS_TNT.dmg) |
 | **Magic Disk Cleaner** | 4.1.1 | [下载](https://github.com/YorkRaleign6/macos/releases/download/4.1.1_renaelc_ksid_cigam/Magic_Disk_Cleaner_4.1.1_MAS_TNT.dmg) |
 | **Mathcapture** | 1.8.99 | [下载](https://github.com/YorkRaleign6/macos/releases/download/1.0.0_99.8.1_erutpachtam/MathCapture_1.8.99.dmg) |
-| **Mellel** | 6 | [下载](https://github.com/YorkRaleign6/macos/releases/download/6_lellem/Mellel_6_6.5.5b65502_TNT.dmg) |
+| **Mellel 6** | 6.5.5 | [下载](https://github.com/YorkRaleign6/macos/releases/download/6_lellem/Mellel_6_6.5.5b65502_TNT.dmg) |
 | **Mercury** | 3.0.5 | [下载](https://github.com/YorkRaleign6/macos/releases/download/1.0.0_5.0.3_yrucrem/Mercury_3.0.5.dmg) |
-| **Millumin5 5.12.T** | 1.0.0 | [下载](https://github.com/YorkRaleign6/macos/releases/download/1.0.0_t.21.5_5nimullim/Millumin5_5.12.t_TNT.dmg) |
+| **Millumin5 5.12.T** | 5.12 | [下载](https://github.com/YorkRaleign6/macos/releases/download/1.0.0_t.21.5_5nimullim/Millumin5_5.12.t_TNT.dmg) |
 | **Moho Pro** | 14.4 | [下载](https://github.com/YorkRaleign6/macos/releases/download/1.0.0_4.41_orp_ohom/Moho_Pro_14.4.dmg) |
 | **Money Pro** | 2.11.18 | [下载](https://github.com/YorkRaleign6/macos/releases/download/2.11.18_orp_yenom/Money_Pro_2.11.18_MAS_TNT.dmg) |
 | **Monodraw** | 1.7.1 | [下载](https://github.com/YorkRaleign6/macos/releases/download/1.7.1_wardonom/Monodraw_1.7.1_EDiSO.dmg) |
-| **Moom** | 4 | [下载](https://github.com/YorkRaleign6/macos/releases/download/4_moom/Moom_4_4.iso) |
+| **Moom 4** | 4 | [下载](https://github.com/YorkRaleign6/macos/releases/download/4_moom/Moom_4_4.iso) |
 | **Mountain Duck** | 5.1.0 | [下载](https://github.com/YorkRaleign6/macos/releases/download/1.0.0_0.1.5_kcud_niatnuom/Mountain_Duck_5.1.0.dmg) |
 | **Mouseboost Pro** | 3.9.2 | [下载](https://github.com/YorkRaleign6/macos/releases/download/3.9.2_orp_tsoobesuom/MouseBoost_Pro_3.9.2_MAS_TNT.dmg) |
 | **Mp3Tag** | 1.9.13 | [下载](https://github.com/YorkRaleign6/macos/releases/download/1.9.13_gat3pm/Mp3tag_1.9.13_EDiSO.dmg) |
@@ -185,10 +185,10 @@ sudo codesign --force --deep --sign - /Applications/你的应用名称.app
 | **Nookx** | 2025.11.20 | [下载](https://github.com/YorkRaleign6/macos/releases/download/1.0.0_02.11.5202_xkoon/NookX_2025.11.20.dmg) |
 | **Notchbox** | 1.1.58 | [下载](https://github.com/YorkRaleign6/macos/releases/download/1.0.0_85.1.1_xobhcton/NotchBox_1.1.58.dmg) |
 | **Noteplan** | 3.19.2 | [下载](https://github.com/YorkRaleign6/macos/releases/download/1.0.0_2.91.3_nalpeton/NotePlan_3.19.2.dmg) |
-| **Oka Unarchiver** | 2 | [下载](https://github.com/YorkRaleign6/macos/releases/download/2_revihcranu_ako/Oka_Unarchiver_2_2.1.10_MAS_TNT.dmg) |
+| **Oka Unarchiver** | 2.1.10 | [下载](https://github.com/YorkRaleign6/macos/releases/download/2_revihcranu_ako/Oka_Unarchiver_2_2.1.10_MAS_TNT.dmg) |
 | **Omnigraffle** | 7.25.1 | [下载](https://github.com/YorkRaleign6/macos/releases/download/7.25.1_elffarginmo/OmniGraffle_7.25.1_TNT.dmg) |
 | **Omnizip** | 2.3.6 | [下载](https://github.com/YorkRaleign6/macos/releases/download/2.3.6_pizinmo/OmniZip_2.3.6_MAS_TNT.dmg) |
-| **On1 Photo Raw Max** | 2026 | [下载](https://github.com/YorkRaleign6/macos/releases/download/2026_xam_war_otohp_1no/ON1_Photo_RAW_MAX_2026_1_20.1.0.17749_TNT.dmg) |
+| **On1 Photo Raw Max** | 20.1.0.17749 | [下载](https://github.com/YorkRaleign6/macos/releases/download/2026_xam_war_otohp_1no/ON1_Photo_RAW_MAX_2026_1_20.1.0.17749_TNT.dmg) |
 | **One Switch** | 1.35.2 | [下载](https://github.com/YorkRaleign6/macos/releases/download/1.35.2_hctiws_eno/One_Switch_1.35.2_TNT.dmg) |
 | **Openin** | 4.3.4 | [下载](https://github.com/YorkRaleign6/macos/releases/download/1.0.0_4.3.4_ninepo/OpenIn_4.3.4.dmg) |
 | **Optimage** | 3.5.1 | [下载](https://github.com/YorkRaleign6/macos/releases/download/3.5.1_egamitpo/Optimage_3.5.1_TNT.dmg) |
@@ -197,7 +197,7 @@ sudo codesign --force --deep --sign - /Applications/你的应用名称.app
 | **Path Finder** | 2206 | [下载](https://github.com/YorkRaleign6/macos/releases/download/2206_rednif_htap/Path_Finder_2206_TNT.dmg) |
 | **Pdf Printer Register** | 6.6.8 | [下载](https://github.com/YorkRaleign6/macos/releases/download/6.6.8_retsiger_retnirp_fdp/PDF_Printer_Register_6.6.8_TNT.dmg) |
 | **Pdfelement** | 12.1.0 | [下载](https://github.com/YorkRaleign6/macos/releases/download/12.1.0_tnemelefdp/PDFelement_12.1.0_TNT.dmg) |
-| **Perfectly Clear Workbench** | 4 | [下载](https://github.com/YorkRaleign6/macos/releases/download/4_hcnebkrow_raelc_yltcefrep/Perfectly_Clear_Workbench_v4_4.8.0.2871_TNT.dmg) |
+| **Perfectly Clear Workbench** | 4.8.0.2871 | [下载](https://github.com/YorkRaleign6/macos/releases/download/4_hcnebkrow_raelc_yltcefrep/Perfectly_Clear_Workbench_v4_4.8.0.2871_TNT.dmg) |
 | **Permute** | 3.14.3 | [下载](https://github.com/YorkRaleign6/macos/releases/download/3.14.3_etumrep/Permute_3.14.3_EDiSO.dmg) |
 | **Phonerescue** | 4.3.1.20251105 | [下载](https://github.com/YorkRaleign6/macos/releases/download/4.3.1.20251105_eucserenohp/PhoneRescue_4.3.1.20251105_TNT.dmg) |
 | **Photomill X** | 3.1.1 | [下载](https://github.com/YorkRaleign6/macos/releases/download/3.1.1_x_llimotohp/PhotoMill_X_3.1.1_TNT.dmg) |
@@ -205,7 +205,7 @@ sudo codesign --force --deep --sign - /Applications/你的应用名称.app
 | **Photosweeper X** | 5.2.0 | [下载](https://github.com/YorkRaleign6/macos/releases/download/5.2.0_x_repeewsotohp/PhotoSweeper_X_5.2.0_TNT.dmg) |
 | **Piezo** | 1.9.8 | [下载](https://github.com/YorkRaleign6/macos/releases/download/1.9.8_ozeip/Piezo_1.9.8_TNT.dmg) |
 | **Posterino** | 6.1.2 | [下载](https://github.com/YorkRaleign6/macos/releases/download/1.0.0_2.1.6_oniretsop/Posterino_6.1.2.dmg) |
-| **Postico** | 2 | [下载](https://github.com/YorkRaleign6/macos/releases/download/2_ocitsop/Postico_2_2.2.3.dmg) |
+| **Postico 2** | 2.2.3 | [下载](https://github.com/YorkRaleign6/macos/releases/download/2_ocitsop/Postico_2_2.2.3.dmg) |
 | **Potplayerx** | 1.3.26 | [下载](https://github.com/YorkRaleign6/macos/releases/download/1.3.26_xreyalptop/PotPlayerX_1.3.26_MAS_TNT.dmg) |
 | **Prizmo** | 5.0.1 | [下载](https://github.com/YorkRaleign6/macos/releases/download/1.0.0_1.0.5_omzirp/Prizmo_5.0.1.dmg) |
 | **Prompt** | 3.1.1 | [下载](https://github.com/YorkRaleign6/macos/releases/download/3.1.1_tpmorp/Prompt_3.1.1_EDiSO.dmg) |
@@ -223,7 +223,7 @@ sudo codesign --force --deep --sign - /Applications/你的应用名称.app
 | **Scherlokk** | 7.0 | [下载](https://github.com/YorkRaleign6/macos/releases/download/1.0.0_0.7_kkolrehcs/Scherlokk_7.0.dmg) |
 | **Screen Studio** | 3.5.1 | [下载](https://github.com/YorkRaleign6/macos/releases/download/3.5.1_oiduts_neercs/Screen_Studio_3.5.1-4051.dmg) |
 | **ScreenFlow** | 10.5.1 | [下载](https://github.com/YorkRaleign6/macos/releases/download/10.5.1_wolfneercs/ScreenFlow_10.5.1_TNT.dmg) |
-| **Serato** | 1.0.0 | [下载](https://github.com/YorkRaleign6/macos/releases/download/1.0.0_otares/Serato_DJ_Pro_Suite_4.0.0.dmg) |
+| **Serato** | 4.0.0 | [下载](https://github.com/YorkRaleign6/macos/releases/download/1.0.0_otares/Serato_DJ_Pro_Suite_4.0.0.dmg) |
 | **Serato Studio** | 2.4.0 | [下载](https://github.com/YorkRaleign6/macos/releases/download/1.0.0_0.4.2_oiduts_otares/Serato_Studio_2.4.0.dmg) |
 | **Shottr** | 1.9.0 | [下载](https://github.com/YorkRaleign6/macos/releases/download/1.0.0_0.9.1_rttohs/Shottr_1.9.0.dmg) |
 | **Sidebar** | 1.9.1 | [下载](https://github.com/YorkRaleign6/macos/releases/download/1.0.0_1.9.1_rabedis/Sidebar_1.9.1.dmg) |
@@ -247,11 +247,12 @@ sudo codesign --force --deep --sign - /Applications/你的应用名称.app
 | **Tabtab** | 2.0.4 | [下载](https://github.com/YorkRaleign6/macos/releases/download/1.0.0_4.0.2_batbat/TabTab_2.0.4.dmg) |
 | **Text Workflow** | 2.6.0 | [下载](https://github.com/YorkRaleign6/macos/releases/download/2.6.0_wolfkrow_txet/Text_Workflow_2.6.0_MAS_TNT.dmg) |
 | **Timemator** | 3.2.0 | [下载](https://github.com/YorkRaleign6/macos/releases/download/3.2.0_rotamemit/Timemator_3.2.0_TNT.dmg) |
-| **Toontrack** | 1.0.0 | [下载](https://github.com/YorkRaleign6/macos/releases/download/1.0.0_kcartnoot/Toontrack_EZkeys_2.1.4.dmg) |
+| **Toontrack** | 2.1.4 | [下载](https://github.com/YorkRaleign6/macos/releases/download/1.0.0_kcartnoot/Toontrack_EZkeys_2.1.4.dmg) |
 | **Topaz Gigapixel** | 1.0.4 | [下载](https://github.com/YorkRaleign6/macos/releases/download/1.0.0_4.0.1_lexipagig_zapot/Topaz_Gigapixel_1.0.4.dmg) |
 | **Transmit** | 5.11.2 | [下载](https://github.com/YorkRaleign6/macos/releases/download/5.11.2_timsnart/Transmit_5.11.2_TNT.dmg) |
 | **Typora** | 1.12.4 | [下载](https://github.com/YorkRaleign6/macos/releases/download/1.12.4_aropyt/Typora_1.12.4_TNT.dmg) |
-| **Ulysses** | 39 | [下载](https://github.com/YorkRaleign6/macos/releases/download/39_sessylu/Ulysses_39_EDiSO.dmg) |
+| **Ulysses** | 39.1 | [下载](https://github.com/YorkRaleign6/macos/releases/download/1.0.0_1.93_sessylu/Ulysses_39.1.dmg) |
+| **Ulysses 39** | 39 | [下载](https://github.com/YorkRaleign6/macos/releases/download/39_sessylu/Ulysses_39_EDiSO.dmg) |
 | **Usbclean** | 4.5 | [下载](https://github.com/YorkRaleign6/macos/releases/download/4.5_naelcbsu/USBclean_4.5_TNT.dmg) |
 | **Vellum** | 4.0 | [下载](https://github.com/YorkRaleign6/macos/releases/download/4.0_mullev/Vellum_4.0_EDiSO.dmg) |
 | **Videobyte Bd-Dvd Ripper** | 2.1.6 | [下载](https://github.com/YorkRaleign6/macos/releases/download/2.1.6_reppir_dvd-db_etyboediv/VideoByte_BD-DVD_Ripper_2.1.6_25296_TNT.dmg) |
@@ -264,11 +265,11 @@ sudo codesign --force --deep --sign - /Applications/你的应用名称.app
 | **Whisper Transcription** | 13.5 | [下载](https://github.com/YorkRaleign6/macos/releases/download/1.0.0_5.31_noitpircsnart_repsihw/Whisper_Transcription_13.5.dmg) |
 | **Widgetter** | 2.3.4 | [下载](https://github.com/YorkRaleign6/macos/releases/download/1.0.0_4.3.2_rettegdiw/Widgetter_2.3.4.dmg) |
 | **Widgetwall** | 3.14 | [下载](https://github.com/YorkRaleign6/macos/releases/download/1.0.0_41.3_llawtegdiw/WidgetWall_3.14.dmg) |
-| **Wifi Explorer Pro** | 3 | [下载](https://github.com/YorkRaleign6/macos/releases/download/3_orp_rerolpxe_ifiw/WiFi_Explorer_Pro_3_3.9.1_TNT.dmg) |
+| **Wifi Explorer Pro** | 3.9.1 | [下载](https://github.com/YorkRaleign6/macos/releases/download/3_orp_rerolpxe_ifiw/WiFi_Explorer_Pro_3_3.9.1_TNT.dmg) |
 | **Wifispoof** | 4.1.3 | [下载](https://github.com/YorkRaleign6/macos/releases/download/4.1.3_foopsifiw/WiFiSpoof_4.1.3_TNT.dmg) |
 | **Xliff Editor** | 3.1 | [下载](https://github.com/YorkRaleign6/macos/releases/download/3.1_rotide_ffilx/Xliff_Editor_3.1_TNT.dmg) |
 | **Xmas Snow** | 1.6.2 | [下载](https://github.com/YorkRaleign6/macos/releases/download/1.6.2_wons_samx/Xmas_snow_1.6.2_MAS_TNT.dmg) |
-| **Xmind** | 26.01 | [下载](https://github.com/YorkRaleign6/macos/releases/download/Xmind_v26.01/Xmind_26.01.07145.dmg) |
+| **Xmind** | 26.01.07145 | [下载](https://github.com/YorkRaleign6/macos/releases/download/Xmind_v26.01/Xmind_26.01.07145.dmg) |
 | **Zipic** | 1.8.4 | [下载](https://github.com/YorkRaleign6/macos/releases/download/1.8.4_cipiz/Zipic_1.8.4_EDiSO.dmg) |
 | **dBpoweramp Music Converter** | 2025.12.04 | [下载](https://github.com/YorkRaleign6/macos/releases/download/2025.12.04_retrevnoc_cisum_pmarewopbd/dBpoweramp_Music_Converter_2025.12.04_Reference.dmg) |
 | **iShot Pro** | 2.6.5 | [下载](https://github.com/YorkRaleign6/macos/releases/download/iShot_Pro_v2.6.5/iShot.Pro_2.6.5.dmg) |
